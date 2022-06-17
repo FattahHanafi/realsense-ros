@@ -6,3 +6,8 @@
 .idea/
 .vs/
 *.json
+
+build/
+install/
+log/
+
